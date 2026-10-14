@@ -91,7 +91,7 @@
         ]
     },
     "Old Owner Consequences": {
-        "Type": "AOE + Passive + Farm",
+        "Type": "AOE + Passive",
         "Image": "rbxassetid://101993095709973",
         "Rarity": "Apex",
         "PlacePrice": 44447,
@@ -109,28 +109,24 @@
                 "Range": 25,
                 "Damage": 3250,
                 "Cooldown": 0.25,
-                "Farm": 100
             },
             {
                 "Price": 27777,
                 "Range": 30,
                 "Damage": 5000,
                 "Cooldown": 0.2,
-                "Farm": 250
             },
             {
                 "Price": 37777,
                 "Range": 45,
                 "Damage": 6500,
                 "Cooldown": 0.15,
-                "Farm": 500
             },
             {
                 "Price": 47777,
                 "Range": 50,
                 "Damage": 8000,
                 "Cooldown": 0.1,
-                "Farm": 700
             }
         ]
     },
