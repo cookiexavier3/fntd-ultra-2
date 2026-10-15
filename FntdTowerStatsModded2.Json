@@ -130,6 +130,46 @@
             }
         ]
     },
+     "Chica's Magic Rainbow": {
+        "Type": "Continuous Pierce",
+        "Image": "rbxassetid://100362118597526",
+        "Rarity": "Nightmare",
+        "PlacePrice": 41000,
+        "Offset": 0.5,
+        "Max": 1,
+        "Passive": {"Name": "Hook and Line", "Description": "Reels in an enemy every 5 seconds, erasing them completely. Deals x20 damage to bosses and true stuns them for 1.65 seconds."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 4000,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 41000,
+                "Range": 24,
+                "Damage": 6000,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 52000,
+                "Range": 40,
+                "Damage": 8000,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 80000,
+                "Range": 32,
+                "Damage": 12000,
+                "Cooldown": 0.25
+            }
+        ]
+    },
     "Plushtrap": {
         "Type": "Support",
         "Image": "rbxassetid://18978316223",
