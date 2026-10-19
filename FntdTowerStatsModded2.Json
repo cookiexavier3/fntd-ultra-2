@@ -670,7 +670,7 @@
         "Type": "Continuous + wither",
         "Image": "rbxassetid://108754548368738",
         "Rarity": "Epic",
-        "PlacePrice": 7,
+        "PlacePrice": 700,
         "Max": 3,
         "Offset": 0.3,
         "hitboxOffset": {
