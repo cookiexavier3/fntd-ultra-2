@@ -1182,7 +1182,7 @@
                 "Cooldown": 2.8,
                 "Slow": 0.4,
                 "SlowTime": 0.5,
-                "Burn": 2500
+                "Burn": 2500,
                 "BurnTime": 1
             },
             {
