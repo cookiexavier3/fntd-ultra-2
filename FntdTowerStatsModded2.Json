@@ -1381,7 +1381,7 @@
                 "Price": 8000,
                 "Range": 27,
                 "Damage": 10000,
-                "Cooldown": 1.5
+                "Cooldown": 1.5,
                 "Slow": 0,
                 "SlowTime": 0.5
             },
@@ -1389,7 +1389,7 @@
                 "Price": 10000,
                 "Range": 30,
                 "Damage": 15050,
-                "Cooldown": 1.5
+                "Cooldown": 1.5,
                 "Slow": 0,
                 "SlowTime": 0.5
             },
@@ -1397,7 +1397,7 @@
                 "Price": 20000,
                 "Range": 32,
                 "Damage": 21000,
-                "Cooldown": 1.5
+                "Cooldown": 1.5,
                 "Slow": 0,
                 "SlowTime": 0.5
             }
@@ -1428,7 +1428,7 @@
                 "Price": 17000,
                 "Range": 27,
                 "Damage": 20000,
-                "Cooldown": 1.5
+                "Cooldown": 1.5,
                 "Slow": 0.4,
                 "SlowTime": 1
             },
@@ -1436,7 +1436,7 @@
                 "Price": 20000,
                 "Range": 30,
                 "Damage": 25050,
-                "Cooldown": 1.5
+                "Cooldown": 1.5,
                 "Slow": 0.4,
                 "SlowTime": 1
             },
@@ -1444,7 +1444,7 @@
                 "Price": 24000,
                 "Range": 32,
                 "Damage": 30000,
-                "Cooldown": 1.5
+                "Cooldown": 1.5,
                 "Slow": 0.4,
                 "SlowTime": 1
             }
@@ -1475,7 +1475,7 @@
                 "Price": 17000,
                 "Range": 27,
                 "Damage": 20000,
-                "Cooldown": 1.5
+                "Cooldown": 1.5,
                 "Slow": 0.4,
                 "SlowTime": 1
             },
@@ -1483,7 +1483,7 @@
                 "Price": 20000,
                 "Range": 30,
                 "Damage": 25050,
-                "Cooldown": 1.5
+                "Cooldown": 1.5,
                 "Slow": 0.4,
                 "SlowTime": 1
             },
@@ -1491,7 +1491,7 @@
                 "Price": 24000,
                 "Range": 32,
                 "Damage": 30000,
-                "Cooldown": 1.5
+                "Cooldown": 1.5,
                 "Slow": 0.4,
                 "SlowTime": 1
             }
