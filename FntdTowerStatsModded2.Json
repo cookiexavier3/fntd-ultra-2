@@ -1453,9 +1453,9 @@
      "Mr Hippo": {
         "Type": "AOE",
         "Image": "rbxassetid://9799702352387",
-        "Rarity": "Sercet",
-        "PlacePrice": 15000,
-        "Max": 2,
+        "Rarity": "Apex",
+        "PlacePrice": 50000,
+        "Max": 1,
         "Offset": 0.3,
         "hitboxOffset": {
             "X": 0,
@@ -1465,35 +1465,27 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 25,
-                "Damage": 18000,
-                "Cooldown": 1.5,
-                "Slow": 0.4,
-                "SlowTime": 1
-            },
-            {
-                "Price": 17000,
-                "Range": 27,
-                "Damage": 20000,
-                "Cooldown": 1.5,
-                "Slow": 0.4,
-                "SlowTime": 1
-            },
-            {
-                "Price": 20000,
                 "Range": 30,
-                "Damage": 25050,
-                "Cooldown": 1.5,
-                "Slow": 0.4,
-                "SlowTime": 1
+                "Damage": 100000,
+                "Cooldown": 5
             },
             {
-                "Price": 24000,
-                "Range": 32,
-                "Damage": 30000,
-                "Cooldown": 1.5,
-                "Slow": 0.4,
-                "SlowTime": 1
+                "Price": 500000,
+                "Range": 35,
+                "Damage": 120000,
+                "Cooldown": 5
+            },
+            {
+                "Price": 1000000,
+                "Range": 40,
+                "Damage": 140000,
+                "Cooldown": 5
+            },
+            {
+                "Price": 200000,
+                "Range": 45,
+                "Damage": 160000,
+                "Cooldown": 5
             }
         ]
     },
