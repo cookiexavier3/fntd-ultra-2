@@ -719,7 +719,7 @@
     },
     "E4404 L0lb1t": {
         "Type": "AOE + Slow",
-        "Image": "rbxassetid://118229974858585",
+        "Image": "rbxassetid://128323282673648",
         "Rarity": "Secret",
         "PlacePrice": 2300,
         "Max": 2,
@@ -766,7 +766,7 @@
     },
     "Err0rT3ap": {
         "Type": "Splash",
-        "Image": "rbxassetid://118229974858585",
+        "Image": "rbxassetid://137327926453634",
         "Rarity": "Nightmare",
         "PlacePrice": 9999,
         "Max": 2,
@@ -883,7 +883,7 @@
     },    
     "ERR0R SC0TT": {
         "Type": "AOE + Continuous",
-        "Image": "rbxassetid://116346455797608",
+        "Image": "rbxassetid://129005547691975",
         "Rarity": "Secret",
         "PlacePrice": 7000,
         "Max": 1,
@@ -922,7 +922,7 @@
     },
     "8-B1t OMC": {
         "Type": "AOE + Nuke + wither",
-        "Image": "rbxassetid://116346455797608",
+        "Image": "rbxassetid://78689453984823",
         "Rarity": "Apex",
         "PlacePrice": 70000,
         "Max": 1,
