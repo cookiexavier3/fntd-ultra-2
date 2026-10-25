@@ -1450,6 +1450,50 @@
             }
         ]
     },
+   "Boombox Foxy": {
+        "Type": "Cooldown Booster",
+        "Image": "rbxassetid://122976176441685",
+        "Rarity": "Secret",
+        "NoEnemyAttack": true,
+        "PlacePrice": 250,
+        "Offset": -0.4,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 0,
+                "Cooldown": 1,
+                "CooldownBoost": 0.9,
+            },
+            {
+                "Price": 1500,
+                "Range": 20,
+                "Damage": 0,
+                "Cooldown": 1,
+                "CooldownBoost": 0.8,
+            },
+            {
+                "Price": 2000,
+                "Range": 20,
+                "Damage": 0,
+                "Cooldown": 1,
+                "CooldownBoost": 0.75,
+            },
+            {
+                "Price": 2500,
+                "Range": 20,
+                "Damage": 0,
+                "Cooldown": 1,
+                "CooldownBoost": 0.7,
+            }
+        ]
+    },
      "Mr Hippo": {
         "Type": "AOE",
         "Image": "rbxassetid://73851279283098",
