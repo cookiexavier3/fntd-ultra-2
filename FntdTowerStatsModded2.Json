@@ -271,6 +271,365 @@
             }
         ]
     },
+    "Bomber Boy": {
+        "Type": "Splash",
+        "Image": "rbxassetid://105906895649413",
+        "Rarity": "Secret",
+        "PlacePrice": 56000,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.5,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 32,
+                "Damage": 5000,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 58000,
+                "Range": 35,
+                "Damage": 7000,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 60000,
+                "Range": 38,
+                "Damage": 9000,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 62000,
+                "Range": 42,
+                "Damage": 11000,
+                "Cooldown": 0.25
+            }
+        ]
+    },
+    "Enraged Toy Freddy": {
+        "Type": "Single",
+        "Image": "rbxassetid://80554534210979",
+        "Rarity": "Rare",
+        "PlacePrice": 600,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.5,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 160,
+                "Cooldown": 1.75
+            },
+            {
+                "Price": 58000,
+                "Range": 12,
+                "Damage": 240,
+                "Cooldown": 1.75
+            },
+            {
+                "Price": 60000,
+                "Range": 15,
+                "Damage": 320,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 62000,
+                "Range": 15,
+                "Damage": 400,
+                "Cooldown": 1.25
+            }
+        ]
+    },
+     "Demolition Toy Chica": {
+        "Type": "Splash",
+        "Image": "rbxassetid://117417835066117",
+        "Rarity": "Epic",
+        "PlacePrice": 1250,
+        "Max": 3,
+        "hitboxOffset": 
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 12,
+                "Damage": 400,
+                "Cooldown": 3
+            },
+            {
+                "Price": 2500,
+                "Range": 12,
+                "Damage": 500,
+                "Cooldown": 3
+            },
+            {
+                "Price": 4000,
+                "Range": 15,
+                "Damage": 600,
+                "Cooldown": 2
+            },
+            {
+                "Price": 6000,
+                "Range": 17,
+                "Damage": 600,
+                "Cooldown": 1.5
+            }
+        ]
+    },
+     "Cool Toy Bonnie": {
+        "Type": "Single",
+        "Image": "rbxassetid://102583887192750",
+        "Rarity": "Epic",
+        "PlacePrice": 750,
+        "Max": 3,
+        "hitboxOffset": 
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 12,
+                "Damage": 160,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1600,
+                "Range": 15,
+                "Damage": 200,
+                "Cooldown": 1
+            },
+            {
+                "Price": 2000,
+                "Range": 18,
+                "Damage": 240,
+                "Cooldown": 1
+            },
+            {
+                "Price": 3000,
+                "Range": 20,
+                "Damage": 300,
+                "Cooldown": 0.75
+            }
+        ]
+    },
+     "Haunted Golden Freddy": {
+        "Type": "Single",
+        "Image": "rbxassetid://113183024632182",
+        "Rarity": "Mythic",
+        "PlacePrice": 4000,
+        "Max": 3,
+        "hitboxOffset": 
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 2,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 500,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 2500,
+                "Range": 18,
+                "Damage": 600,
+                "Cooldown": 1.25
+            },
+            {
+                "Price": 4000,
+                "Range": 20,
+                "Damage": 800,
+                "Cooldown": 1
+            },
+            {
+                "Price": 6000,
+                "Range": 20,
+                "Damage": 1000,
+                "Cooldown": 1
+            }
+        ]
+    },
+     "Upgraded Bonnie": {
+        "Type": "Continuous",
+        "Image": "rbxassetid://76006977041371",
+        "Rarity": "Mythic",
+        "PlacePrice": 10000,
+        "Max": 3,
+        "hitboxOffset": 
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 18,
+                "Damage": 40,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 15000,
+                "Range": 20,
+                "Damage": 60,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 25000,
+                "Range": 23,
+                "Damage": 80,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 35000,
+                "Range": 26,
+                "Damage": 100,
+                "Cooldown": 0.05
+            }
+        ]
+    },
+     "Wraith Freddy": {
+        "Type": "AOE",
+        "Image": "rbxassetid://115627084338568",
+        "Rarity": "Sercet",
+        "PlacePrice": 53000,
+        "Max": 2,
+        "hitboxOffset": 
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 750,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 58000,
+                "Range": 22,
+                "Damage": 900,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 63000,
+                "Range": 15,
+                "Damage": 1100,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 66000,
+                "Range": 17,
+                "Damage": 1375,
+                "Cooldown": 0.25
+            }
+        ]
+    },
+     "Fortified Endo 02": {
+        "Type": "AOE",
+        "Image": "rbxassetid://86634335404738",
+        "Rarity": "Secret",
+        "PlacePrice": 500,
+        "Max": 4,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.5,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 32,
+                "Damage": 100,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 58000,
+                "Range": 35,
+                "Damage": 200,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 60000,
+                "Range": 38,
+                "Damage": 300,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 62000,
+                "Range": 42,
+                "Damage": 500,
+                "Cooldown": 0.25
+            }
+        ]
+    },
+     "Spooky Knight Puppet": {
+        "Type": "AOE + Slow",
+        "Image": "rbxassetid://140159501907215",
+        "Rarity": "Forgotten",
+        "PlacePrice": 100000,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.5,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 40,
+                "Damage": 50000,
+                "Cooldown": 2,
+                "Slow": 60,
+                "SlowTime": 2
+            },
+            {
+                "Price": 110000,
+                "Range": 43,
+                "Damage": 100000,
+                "Cooldown": 1.7,
+                "Slow": 60,
+                "SlowTime": 2
+            },
+            {
+                "Price": 103126,
+                "Range": 45,
+                "Damage": 103126,
+                "Cooldown": 1.6,
+                "Slow": 60,
+                "SlowTime": 2
+            },
+            {
+                "Price": 200000,
+                "Range": 48,
+                "Damage": 150000,
+                "Cooldown": 1.5,
+                "Slow": 60,
+                "SlowTime": 2
+            }
+        ]
+    },
     "Bear5": {
         "Type": "Bear5",
         "Image": "rbxassetid://121194015638420",
@@ -406,7 +765,7 @@
     },
     "Gladiator Foxy": {
         "Type": "AOE",
-        "Image": "rbxassetid://759495154036126",
+        "Image": "rbxassetid://75945154036126",
         "Rarity": "Secret",
         "PlacePrice": 600,
         "Max": 3,
@@ -1809,25 +2168,25 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 4000,
+                "Damage": 7000,
                 "Cooldown": 0.25
             },
             {
                 "Price": 41000,
-                "Range": 4,
-                "Damage": 6000,
+                "Range": 35,
+                "Damage": 10000,
                 "Cooldown": 0.25
             },
             {
                 "Price": 52000,
-                "Range": 50,
-                "Damage": 8000,
+                "Range": 40,
+                "Damage": 15000,
                 "Cooldown": 0.25
             },
             {
                 "Price": 80000,
-                "Range": 52,
-                "Damage": 12000,
+                "Range": 45,
+                "Damage": 20000,
                 "Cooldown": 0.25
             }
         ]
@@ -6657,31 +7016,31 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 10000,
+                "Damage": 1000,
                 "Cooldown": 0.25
             },
             {
                 "Price": 125000,
                 "Range": 25,
-                "Damage": 12500,
+                "Damage": 2500,
                 "Cooldown": 0.25
             },
             {
                 "Price": 150000,
                 "Range": 30,
-                "Damage": 15000,
+                "Damage": 5000,
                 "Cooldown": 0.25
             },
             {
                 "Price": 175000,
                 "Range": 35,
-                "Damage": 17500,
+                "Damage": 7500,
                 "Cooldown": 0.25
             },
             {
                 "Price": 200000,
                 "Range": 40,
-                "Damage": 20000,
+                "Damage": 10000,
                 "Cooldown": 0.25
             }
         ]
