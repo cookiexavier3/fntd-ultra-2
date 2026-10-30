@@ -271,12 +271,12 @@
             }
         ]
     },
-    "Bomber Boy": {
+     "Bomber Boy": {
         "Type": "Splash",
-        "Image": "rbxassetid://105906895649413",
+        "Image": "rbxassetid://133399431749556",
         "Rarity": "Secret",
-        "PlacePrice": 56000,
-        "Max": 1,
+        "PlacePrice": 300,
+        "Max": 4,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -286,36 +286,74 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 32,
-                "Damage": 5000,
-                "Cooldown": 0.25
+                "Range": 15,
+                "Damage": 2500,
+                "Cooldown": 4
             },
             {
-                "Price": 58000,
-                "Range": 35,
-                "Damage": 7000,
-                "Cooldown": 0.25
+                "Price": 500,
+                "Range": 18,
+                "Damage": 3100,
+                "Cooldown": 4
             },
             {
-                "Price": 60000,
-                "Range": 38,
-                "Damage": 9000,
-                "Cooldown": 0.25
+                "Price": 800,
+                "Range": 20,
+                "Damage": 3500,
+                "Cooldown": 4
             },
             {
-                "Price": 62000,
-                "Range": 42,
-                "Damage": 11000,
-                "Cooldown": 0.25
+                "Price": 1200,
+                "Range": 22,
+                "Damage": 4200,
+                "Cooldown": 4
             }
         ]
     },
     "Enraged Toy Freddy": {
         "Type": "Single",
-        "Image": "rbxassetid://80554534210979",
-        "Rarity": "Rare",
-        "PlacePrice": 600,
+        "Image": "rbxassetid://10748748285722",
+        "Rarity": "Secret",
+        "PlacePrice": 15000,
         "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 120,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 20000,
+                "Range": 22,
+                "Damage": 140,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 30000,
+                "Range": 25,
+                "Damage": 160,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 40000,
+                "Range": 30,
+                "Damage": 220,
+                "Cooldown": 0.05
+            }
+        ]
+    },
+    "Demolition Toy Chica": {
+        "Type": "Splash",
+        "Image": "rbxassetid://133399431749556",
+        "Rarity": "Secret",
+        "PlacePrice": 300,
+        "Max": 4,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -325,66 +363,27 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 10,
-                "Damage": 160,
-                "Cooldown": 1.75
-            },
-            {
-                "Price": 58000,
-                "Range": 12,
-                "Damage": 240,
-                "Cooldown": 1.75
-            },
-            {
-                "Price": 60000,
                 "Range": 15,
-                "Damage": 320,
-                "Cooldown": 1.5
+                "Damage": 2500,
+                "Cooldown": 4
             },
             {
-                "Price": 62000,
-                "Range": 15,
-                "Damage": 400,
-                "Cooldown": 1.25
-            }
-        ]
-    },
-     "Demolition Toy Chica": {
-        "Type": "Splash",
-        "Image": "rbxassetid://117417835066117",
-        "Rarity": "Epic",
-        "PlacePrice": 1250,
-        "Max": 3,
-        "hitboxOffset": 
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Offset": 0,
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 12,
-                "Damage": 400,
-                "Cooldown": 3
+                "Price": 500,
+                "Range": 18,
+                "Damage": 3100,
+                "Cooldown": 4
             },
             {
-                "Price": 2500,
-                "Range": 12,
-                "Damage": 500,
-                "Cooldown": 3
+                "Price": 800,
+                "Range": 20,
+                "Damage": 3500,
+                "Cooldown": 4
             },
             {
-                "Price": 4000,
-                "Range": 15,
-                "Damage": 600,
-                "Cooldown": 2
-            },
-            {
-                "Price": 6000,
-                "Range": 17,
-                "Damage": 600,
-                "Cooldown": 1.5
+                "Price": 1200,
+                "Range": 22,
+                "Damage": 4200,
+                "Cooldown": 4
             }
         ]
     },
