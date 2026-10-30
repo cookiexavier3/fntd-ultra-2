@@ -505,81 +505,81 @@
             }
         ]
     },
-     "Wraith Freddy": {
+    "Wraith Freddy": {
         "Type": "AOE",
-        "Image": "rbxassetid://115627084338568",
-        "Rarity": "Sercet",
-        "PlacePrice": 53000,
+        "Image": "rbxassetid://86604943457071",
+        "Rarity": "Apex",
+        "PlacePrice": 30000,
         "Max": 2,
-        "hitboxOffset": 
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
         "Offset": 0,
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 20,
-                "Damage": 750,
-                "Cooldown": 0.25
-            },
-            {
-                "Price": 58000,
-                "Range": 22,
-                "Damage": 900,
-                "Cooldown": 0.25
-            },
-            {
-                "Price": 63000,
-                "Range": 15,
-                "Damage": 1100,
-                "Cooldown": 0.25
-            },
-            {
-                "Price": 66000,
-                "Range": 17,
-                "Damage": 1375,
-                "Cooldown": 0.25
-            }
-        ]
-    },
-     "Fortified Endo 02": {
-        "Type": "AOE",
-        "Image": "rbxassetid://86634335404738",
-        "Rarity": "Secret",
-        "PlacePrice": 500,
-        "Max": 4,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
             "Z": 0
         },
-        "Offset": 0.5,
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 32,
-                "Damage": 100,
-                "Cooldown": 0.25
-            },
-            {
-                "Price": 58000,
-                "Range": 35,
-                "Damage": 200,
-                "Cooldown": 0.25
+                "Range": 50,
+                "Damage": 16250,
+                "Cooldown": 1
             },
             {
                 "Price": 60000,
-                "Range": 38,
-                "Damage": 300,
-                "Cooldown": 0.25
+                "Range": 54,
+                "Damage": 19500,
+                "Cooldown": 1
             },
             {
-                "Price": 62000,
-                "Range": 42,
-                "Damage": 500,
-                "Cooldown": 0.25
+                "Price": 70000,
+                "Range": 57,
+                "Damage": 22750,
+                "Cooldown": 1
+            },
+            {
+                "Price": 100000,
+                "Range": 60,
+                "Damage": 27000,
+                "Cooldown": 1
+            }
+        ]
+    },
+    "Fortified Endo 02": {
+        "Type": "AOE",
+        "Image": "rbxassetid://86604943457071",
+        "Rarity": "Apex",
+        "PlacePrice": 30000,
+        "Max": 2,
+        "Offset": 0,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 50,
+                "Damage": 16250,
+                "Cooldown": 1
+            },
+            {
+                "Price": 60000,
+                "Range": 54,
+                "Damage": 19500,
+                "Cooldown": 1
+            },
+            {
+                "Price": 70000,
+                "Range": 57,
+                "Damage": 22750,
+                "Cooldown": 1
+            },
+            {
+                "Price": 100000,
+                "Range": 60,
+                "Damage": 27000,
+                "Cooldown": 1
             }
         ]
     },
