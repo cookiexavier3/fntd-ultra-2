@@ -465,7 +465,7 @@
     },
      "Upgraded Bonnie": {
         "Type": "Continuous",
-        "Image": "rbxassetid://10748748285722",
+        "Image": "rbxassetid://76006977041371",
         "Rarity": "Mythic",
         "PlacePrice": 7500,
         "Max": 3,
@@ -503,9 +503,9 @@
     },
     "Wraith Freddy": {
         "Type": "AOE",
-        "Image": "rbxassetid://86604943457071",
-        "Rarity": "Apex",
-        "PlacePrice": 30000,
+        "Image": "rbxassetid://115627084338568",
+        "Rarity": "Secret",
+        "PlacePrice": 56000,
         "Max": 2,
         "Offset": 0,
         "hitboxOffset": {
@@ -516,35 +516,35 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 50,
-                "Damage": 16250,
-                "Cooldown": 1
+                "Range": 20,
+                "Damage": 750,
+                "Cooldown": 0.25
             },
             {
-                "Price": 60000,
-                "Range": 54,
-                "Damage": 19500,
-                "Cooldown": 1
+                "Price": 58000,
+                "Range": 22,
+                "Damage": 900,
+                "Cooldown": 0.25
             },
             {
-                "Price": 70000,
-                "Range": 57,
-                "Damage": 22750,
-                "Cooldown": 1
+                "Price": 63000,
+                "Range": 25,
+                "Damage": 1100,
+                "Cooldown": 0.25
             },
             {
-                "Price": 100000,
-                "Range": 60,
-                "Damage": 27000,
-                "Cooldown": 1
+                "Price": 66000,
+                "Range": 27,
+                "Damage": 1375,
+                "Cooldown": 0.25
             }
         ]
     },
     "Fortified Endo 02": {
         "Type": "AOE",
-        "Image": "rbxassetid://86604943457071",
-        "Rarity": "Apex",
-        "PlacePrice": 30000,
+        "Image": "rbxassetid://86634335404738",
+        "Rarity": "Secret",
+        "PlacePrice": 500,
         "Max": 2,
         "Offset": 0,
         "hitboxOffset": {
@@ -555,27 +555,27 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 50,
-                "Damage": 16250,
-                "Cooldown": 1
+                "Range": 10,
+                "Damage": 100,
+                "Cooldown": 0.1
             },
             {
-                "Price": 60000,
-                "Range": 54,
-                "Damage": 19500,
-                "Cooldown": 1
+                "Price": 700,
+                "Range": 14,
+                "Damage": 300,
+                "Cooldown": 0.1
             },
             {
-                "Price": 70000,
-                "Range": 57,
-                "Damage": 22750,
-                "Cooldown": 1
+                "Price": 900,
+                "Range": 17,
+                "Damage": 500,
+                "Cooldown": 0.1
             },
             {
-                "Price": 100000,
-                "Range": 60,
-                "Damage": 27000,
-                "Cooldown": 1
+                "Price": 1200,
+                "Range": 20,
+                "Damage": 700,
+                "Cooldown": 0.1
             }
         ]
     },
