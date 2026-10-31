@@ -275,7 +275,7 @@
         "Type": "Splash",
         "Image": "rbxassetid://133399431749556",
         "Rarity": "Secret",
-        "PlacePrice": 300,
+        "PlacePrice": 56000,
         "Max": 4,
         "hitboxOffset": {
             "X": 0,
@@ -286,34 +286,34 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 15,
-                "Damage": 2500,
-                "Cooldown": 4
+                "Range": 32,
+                "Damage": 5000,
+                "Cooldown": 0.25
             },
             {
-                "Price": 500,
-                "Range": 18,
-                "Damage": 3100,
-                "Cooldown": 4
+                "Price": 58000,
+                "Range": 35,
+                "Damage": 7000,
+                "Cooldown": 0.25
             },
             {
-                "Price": 800,
-                "Range": 20,
-                "Damage": 3500,
-                "Cooldown": 4
+                "Price": 60000,
+                "Range": 38,
+                "Damage": 9000,
+                "Cooldown": 0.25
             },
             {
-                "Price": 1200,
-                "Range": 22,
-                "Damage": 4200,
-                "Cooldown": 4
+                "Price": 68000,
+                "Range": 42,
+                "Damage": 11000,
+                "Cooldown": 0.25
             }
         ]
     },
     "Enraged Toy Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://10748748285722",
-        "Rarity": "Secret",
+        "Rarity": "Rare",
         "PlacePrice": 15000,
         "Max": 3,
         "hitboxOffset": {
