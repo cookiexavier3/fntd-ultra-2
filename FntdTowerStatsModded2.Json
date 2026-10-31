@@ -312,9 +312,9 @@
     },
     "Enraged Toy Freddy": {
         "Type": "Single",
-        "Image": "rbxassetid://10748748285722",
+        "Image": "rbxassetid://80554534210979",
         "Rarity": "Rare",
-        "PlacePrice": 15000,
+        "PlacePrice": 600,
         "Max": 3,
         "hitboxOffset": {
             "X": 0,
@@ -324,27 +324,27 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 20,
-                "Damage": 120,
-                "Cooldown": 0.05
-            },
-            {
-                "Price": 20000,
-                "Range": 22,
-                "Damage": 140,
-                "Cooldown": 0.05
-            },
-            {
-                "Price": 30000,
-                "Range": 25,
+                "Range": 10,
                 "Damage": 160,
-                "Cooldown": 0.05
+                "Cooldown": 2
             },
             {
-                "Price": 40000,
-                "Range": 30,
-                "Damage": 220,
-                "Cooldown": 0.05
+                "Price": 1000,
+                "Range": 12,
+                "Damage": 240,
+                "Cooldown": 2
+            },
+            {
+                "Price": 1500,
+                "Range": 15,
+                "Damage": 320,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 2000,
+                "Range": 15,
+                "Damage": 400,
+                "Cooldown": 1.5
             }
         ]
     },
@@ -582,7 +582,7 @@
      "Spooky Knight Puppet": {
         "Type": "AOE + Slow",
         "Image": "rbxassetid://140159501907215",
-        "Rarity": "Forgotten",
+        "Rarity": "HALLOWEEN",
         "PlacePrice": 100000,
         "Max": 1,
         "hitboxOffset": {
