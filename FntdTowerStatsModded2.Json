@@ -350,10 +350,10 @@
     },
     "Demolition Toy Chica": {
         "Type": "Splash",
-        "Image": "rbxassetid://133399431749556",
-        "Rarity": "Secret",
-        "PlacePrice": 300,
-        "Max": 4,
+        "Image": "rbxassetid://117417835966117",
+        "Rarity": "Epic",
+        "PlacePrice": 1250,
+        "Max": 3,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -363,27 +363,27 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 15,
-                "Damage": 2500,
-                "Cooldown": 4
+                "Range": 12,
+                "Damage": 400,
+                "Cooldown": 3
             },
             {
-                "Price": 500,
+                "Price": 2500,
                 "Range": 18,
-                "Damage": 3100,
-                "Cooldown": 4
+                "Damage": 500,
+                "Cooldown": 3
             },
             {
-                "Price": 800,
+                "Price": 4000,
                 "Range": 20,
-                "Damage": 3500,
-                "Cooldown": 4
+                "Damage": 600,
+                "Cooldown": 2
             },
             {
-                "Price": 1200,
+                "Price": 6000,
                 "Range": 22,
-                "Damage": 4200,
-                "Cooldown": 4
+                "Damage": 600,
+                "Cooldown": 1.5
             }
         ]
     },
