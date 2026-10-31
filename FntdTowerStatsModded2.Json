@@ -389,9 +389,9 @@
     },
      "Cool Toy Bonnie": {
         "Type": "Single",
-        "Image": "rbxassetid://10748748285722",
-        "Rarity": "Secret",
-        "PlacePrice": 15000,
+        "Image": "rbxassetid://102583887192750",
+        "Rarity": "Epic",
+        "PlacePrice": 750,
         "Max": 3,
         "hitboxOffset": {
             "X": 0,
@@ -401,27 +401,27 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 20,
-                "Damage": 120,
-                "Cooldown": 0.05
-            },
-            {
-                "Price": 20000,
-                "Range": 22,
-                "Damage": 140,
-                "Cooldown": 0.05
-            },
-            {
-                "Price": 30000,
-                "Range": 25,
+                "Range": 12,
                 "Damage": 160,
-                "Cooldown": 0.05
+                "Cooldown": 1
             },
             {
-                "Price": 40000,
-                "Range": 30,
-                "Damage": 220,
-                "Cooldown": 0.05
+                "Price": 1600,
+                "Range": 15,
+                "Damage": 200,
+                "Cooldown": 1
+            },
+            {
+                "Price": 2000,
+                "Range": 18,
+                "Damage": 240,
+                "Cooldown": 1
+            },
+            {
+                "Price": 3000,
+                "Range": 20,
+                "Damage": 300,
+                "Cooldown": 0.75
             }
         ]
     },
