@@ -892,6 +892,147 @@
             }
         ]
     },
+     "Jester Puppet": {
+        "Type": "AOE + Wither",
+        "Image": "rbxassetid://112806747062575",
+        "Rarity": "Apex",
+        "PlacePrice": 50000,
+        "Max": 1,
+        "Offset": 0.4,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 28,
+                "Damage": 18000,
+                "Cooldown": 1.2,
+                "Wither": 1.5,
+                "ShinyWither": 1.6,
+                "WitherTime": 2.5
+            },
+            {
+                "Price": 60000,
+                "Range": 32,
+                "Damage": 22000,
+                "Cooldown": 1.2,
+                "Wither": 1.5,
+                "ShinyWither": 2,
+                "WitherTime": 2.5
+            },
+            {
+                "Price": 70000,
+                "Range": 35,
+                "Damage": 26000,
+                "Cooldown": 1.2,
+                "Wither": 1.5,
+                "ShinyWither": 2,
+                "WitherTime": 2
+            },
+            {
+                "Price": 80000,
+                "Range": 38,
+                "Damage": 60000,
+                "Cooldown": 1.2,
+                "Wither": 1.5,
+                "ShinyWither": 2,
+                "WitherTime": 2.5
+            }
+        ]
+    },
+    "Glided Jester Puppet": {
+        "Type": "AOE + 2x damage",
+        "Image": "rbxassetid://103324053538505",
+        "Rarity": "Apex",
+        "PlacePrice": 50000,
+        "Max": 1,
+        "Offset": 0.4,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 35,
+                "Damage": 36000,
+                "Cooldown": 0.7,
+                "Wither": 3,
+                "ShinyWither": 2,
+                "WitherTime": 5
+            },
+            {
+                "Price": 60000,
+                "Range": 37,
+                "Damage": 44000,
+                "Cooldown": 0.7,
+                "Wither": 3,
+                "ShinyWither": 2,
+                "WitherTime": 5
+            },
+            {
+                "Price": 70000,
+                "Range": 40,
+                "Damage": 66000,
+                "Cooldown": 0.7,
+                "Wither": 3,
+                "ShinyWither": 2,
+                "WitherTime": 5
+            },
+            {
+                "Price": 80000,
+                "Range": 43,
+                "Damage": 80000,
+                "Cooldown": 0.7,
+                "Wither": 3,
+                "ShinyWither": 4,
+                "WitherTime": 5
+            }
+        ]
+    },
+     "Gilded Knight": {
+        "Type": "AOE + 2x damage",
+        "Image": "rbxassetid://103324053538505",
+        "Rarity": "Apex",
+        "PlacePrice": 50000,
+        "Max": 1,
+        "Offset": 0.4,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 35,
+                "Damage": 50000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 60000,
+                "Range": 37,
+                "Damage": 60000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 80000,
+                "Range": 40,
+                "Damage": 70000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 100000,
+                "Range": 43,
+                "Damage": 100000,
+                "Cooldown": 1
+            }
+        ]
+    },
     "Raider Freddy": {
         "Type": "AOE",
         "Image": "rbxassetid://73048377720930",
@@ -1245,6 +1386,373 @@
                 "Cooldown": 3.6,
                 "Slow": 0,
                 "SlowTime": 0.75
+            }
+        ]
+    },
+     "Sabertooth Foxy": {
+        "Type": "Single",
+        "Image": "rbxassetid://85789248456776",
+        "Rarity": "Epic",
+        "PlacePrice": 500,
+        "Max": 4,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 930,
+                "Cooldown": 1.2
+            },
+            {
+                "Price": 650,
+                "Range": 22,
+                "Damage": 1035,
+                "Cooldown": 1.1
+            },
+            {
+                "Price": 775,
+                "Range": 24,
+                "Damage": 1150,
+                "Cooldown": 1.1
+            },
+            {
+                "Price": 900,
+                "Range": 25,
+                "Damage": 1380,
+                "Cooldown": 1
+            }
+        ]
+    },
+      "Molten Foxy": {
+        "Type": "Splash + Burn",
+        "Image": "rbxassetid://138570611785526",
+        "Rarity": "Mythic",
+        "PlacePrice": 8000,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 3000,
+                "Cooldown": 3.5
+            },
+            {
+                "Price": 10500,
+                "Range": 25,
+                "Damage": 3500,
+                "Cooldown": 3.1
+            },
+            {
+                "Price": 13000,
+                "Range": 28,
+                "Damage": 4000,
+                "Cooldown": 2.8
+            },
+            {
+                "Price": 15500,
+                "Range": 30,
+                "Damage": 5000,
+                "Cooldown": 2.5
+            }
+        ]
+    },
+      "Dino Plane Boy": {
+        "Type": "Continuous + Pierce",
+        "Image": "rbxassetid://121765228317508",
+        "Rarity": "Secret",
+        "PlacePrice": 20000,
+        "Max": 2,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1000,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 23000,
+                "Range": 24,
+                "Damage": 1200,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 27000,
+                "Range": 28,
+                "Damage": 1500,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 30000,
+                "Range": 30,
+                "Damage": 2000,
+                "Cooldown": 0.25
+            }
+        ]
+    },
+    "Dino Pals": {
+        "Type": "AOE",
+        "Image": "rbxassetid://81040981850985",
+        "Rarity": "Secret",
+        "PlacePrice": 6000,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 18,
+                "Damage": 4000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 9000,
+                "Range": 21,
+                "Damage": 1200,
+                "Cooldown": 2
+            },
+            {
+                "Price": 12000,
+                "Range": 24,
+                "Damage": 1500,
+                "Cooldown": 2
+            },
+            {
+                "Price": 15000,
+                "Range": 28,
+                "Damage": 6000,
+                "Cooldown": 2
+            }
+        ]
+    },
+     "Dino Dreadbear": {
+        "Type": "Splash + Stun",
+        "Image": "rbxassetid://994044609988802",
+        "Rarity": "Nightmare",
+        "PlacePrice": 25000,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 24000,
+                "Cooldown": 2.5,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 40000,
+                "Range": 30,
+                "Damage": 27500,
+                "Cooldown": 2.5,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 45000,
+                "Range": 30,
+                "Damage": 31000,
+                "Cooldown": 2.5,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 50000,
+                "Range": 30,
+                "Damage": 34000,
+                "Cooldown": 2.5,
+                "Slow": 0,
+                "SlowTime": 0.5
+            }
+        ]
+    },
+    "Paleontologist Springbonnie": {
+        "Type": "Splash",
+        "Image": "rbxassetid://75314778427273",
+        "Rarity": "Nightmare",
+        "PlacePrice": 30000,
+        "Max": 2,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 4000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 36000,
+                "Range": 22,
+                "Damage": 4600,
+                "Cooldown": 2
+            },
+            {
+                "Price": 40000,
+                "Range": 23,
+                "Damage": 5400,
+                "Cooldown": 2
+            },
+            {
+                "Price": 46000,
+                "Range": 25,
+                "Damage": 6000,
+                "Cooldown": 2
+            }
+        ]
+    },
+     "Triceratops Chica": {
+        "Type": "AOE",
+        "Image": "rbxassetid://73945180276553",
+        "Rarity": "Nightmare",
+        "PlacePrice": 33333,
+        "Max": 2,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 18,
+                "Damage": 1111,
+                "Cooldown": 1
+            },
+            {
+                "Price": 37000,
+                "Range": 25,
+                "Damage": 1616,
+                "Cooldown": 0.7
+            },
+            {
+                "Price": 43434,
+                "Range": 29,
+                "Damage": 2424,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 48000,
+                "Range": 33,
+                "Damage": 3333,
+                "Cooldown": 0.33
+            }
+        ]
+    },
+      "Chicasaurus Rex": {
+        "Type": "AOE",
+        "Image": "rbxassetid://139482431949632",
+        "Rarity": "Apex",
+        "PlacePrice": 40000,
+        "Max": 1,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 70000,
+                "Cooldown": 3
+            },
+            {
+                "Price": 50000,
+                "Range": 27,
+                "Damage": 76000,
+                "Cooldown": 3
+            },
+            {
+                "Price": 60000,
+                "Range": 30,
+                "Damage": 82000,
+                "Cooldown": 3
+            },
+            {
+                "Price": 70000,
+                "Range": 35,
+                "Damage": 90000,
+                "Cooldown": 3
+            }
+        ]
+    },
+       "Fossilized Puppet": {
+        "Type": "AOE + Stun",
+        "Image": "rbxassetid://102097033004654",
+        "Rarity": "Forgotten",
+        "PlacePrice": 45000,
+        "Max": 1,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 27,
+                "Damage": 50000,
+                "Cooldown": 5,
+                "Slow": 0,
+                "SlowTime": 2
+            },
+            {
+                "Price": 50000,
+                "Range": 31,
+                "Damage": 70000,
+                "Cooldown": 5,
+                "Slow": 0,
+                "SlowTime": 2
+            },
+            {
+                "Price": 60000,
+                "Range": 33,
+                "Damage": 100000,
+                "Cooldown": 5,
+                "Slow": 0,
+                "SlowTime": 2
+            },
+            {
+                "Price": 70000,
+                "Range": 35,
+                "Damage": 200000,
+                "Cooldown": 5,
+                "Slow": 0,
+                "SlowTime": 2
             }
         ]
     },
