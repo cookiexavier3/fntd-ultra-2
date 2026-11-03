@@ -1391,7 +1391,7 @@
     },
      "Sabertooth Foxy": {
         "Type": "Single",
-        "Image": "rbxassetid://85789248456776",
+        "Image": "rbxassetid://138570611785526",
         "Rarity": "Epic",
         "PlacePrice": 500,
         "Max": 4,
@@ -1430,7 +1430,7 @@
     },
       "Molten Foxy": {
         "Type": "Splash + Burn",
-        "Image": "rbxassetid://138570611785526",
+        "Image": "rbxassetid://121765228317508",
         "Rarity": "Mythic",
         "PlacePrice": 8000,
         "Max": 3,
@@ -1469,7 +1469,7 @@
     },
       "Dino Plane Boy": {
         "Type": "Continuous + Pierce",
-        "Image": "rbxassetid://121765228317508",
+        "Image": "rbxassetid://81040981850985",
         "Rarity": "Secret",
         "PlacePrice": 20000,
         "Max": 2,
@@ -1508,7 +1508,7 @@
     },
     "Dino Pals": {
         "Type": "AOE",
-        "Image": "rbxassetid://81040981850985",
+        "Image": "rbxassetid://994044609988802",
         "Rarity": "Secret",
         "PlacePrice": 6000,
         "Max": 3,
@@ -1547,7 +1547,7 @@
     },
      "Dino Dreadbear": {
         "Type": "Splash + Stun",
-        "Image": "rbxassetid://994044609988802",
+        "Image": "rbxassetid://75314778427273",
         "Rarity": "Nightmare",
         "PlacePrice": 25000,
         "Max": 3,
@@ -1594,7 +1594,7 @@
     },
     "Paleontologist Springbonnie": {
         "Type": "Splash",
-        "Image": "rbxassetid://75314778427273",
+        "Image": "rbxassetid://73945180276553",
         "Rarity": "Nightmare",
         "PlacePrice": 30000,
         "Max": 2,
@@ -1633,7 +1633,7 @@
     },
      "Triceratops Chica": {
         "Type": "AOE",
-        "Image": "rbxassetid://73945180276553",
+        "Image": "rbxassetid://139482431949632",
         "Rarity": "Nightmare",
         "PlacePrice": 33333,
         "Max": 2,
@@ -1672,7 +1672,7 @@
     },
       "Chicasaurus Rex": {
         "Type": "AOE",
-        "Image": "rbxassetid://139482431949632",
+        "Image": "rbxassetid://85789248456776",
         "Rarity": "Apex",
         "PlacePrice": 40000,
         "Max": 1,
