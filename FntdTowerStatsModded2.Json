@@ -1594,7 +1594,7 @@
     },
     "Paleontologist Springbonnie": {
         "Type": "Splash",
-        "Image": "rbxassetid://73945180276553",
+        "Image": "rbxassetid://75314778427273",
         "Rarity": "Nightmare",
         "PlacePrice": 30000,
         "Max": 2,
@@ -1633,7 +1633,7 @@
     },
      "Triceratops Chica": {
         "Type": "AOE",
-        "Image": "rbxassetid://139482431949632",
+        "Image": "rbxassetid://73945180276553",
         "Rarity": "Nightmare",
         "PlacePrice": 33333,
         "Max": 2,
