@@ -722,7 +722,7 @@
     },
     "Apollo's Sun": {
         "Type": "Nuke + Burn",
-        "Image": "rbxassetid://120986472381141",
+        "Image": "rbxassetid://1209864872381141",
         "Rarity": "Apex",
         "PlacePrice": 35000,
         "Max": 1,
@@ -808,7 +808,7 @@
     },
     "Gladiator Foxy": {
         "Type": "AOE",
-        "Image": "rbxassetid://75945154036126",
+        "Image": "rbxassetid://75495154036126",
         "Rarity": "Secret",
         "PlacePrice": 600,
         "Max": 3,
