@@ -626,6 +626,53 @@
             }
         ]
     },
+      "Golden Scott": {
+        "Type": "AOE + Stun",
+        "Image": "rbxassetid://132177349829512",
+        "Rarity": "Secret",
+        "PlacePrice": 30000,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.5,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 40,
+                "Damage": 37500,
+                "Cooldown": 2,
+                "Slow": 0,
+                "SlowTime": 1
+            },
+            {
+                "Price": 70000,
+                "Range": 43,
+                "Damage": 47000,
+                "Cooldown": 2,
+                "Slow": 0,
+                "SlowTime": 1
+            },
+            {
+                "Price": 100006,
+                "Range": 45,
+                "Damage": 60000,
+                "Cooldown": 2,
+                "Slow": 0,
+                "SlowTime": 1
+            },
+            {
+                "Price": 150000,
+                "Range": 48,
+                "Damage": 75000,
+                "Cooldown": 2,
+                "Slow": 0,
+                "SlowTime": 1
+            }
+        ]
+    },
     "Glitched Puppeteer": {
         "Type": "AOE + Stun",
         "Image": "rbxassetid://18887217738",
@@ -996,7 +1043,7 @@
     },
      "Gilded Knight": {
         "Type": "AOE + 2x damage",
-        "Image": "rbxassetid://103324053538505",
+        "Image": "rbxassetid://120947166823124",
         "Rarity": "Apex",
         "PlacePrice": 50000,
         "Max": 1,
@@ -1469,7 +1516,7 @@
     },
       "Dino Plane Boy": {
         "Type": "Continuous + Pierce",
-        "Image": "rbxassetid://81040981850985",
+        "Image": "rbxassetid://994044609988802",
         "Rarity": "Secret",
         "PlacePrice": 20000,
         "Max": 2,
@@ -1508,7 +1555,7 @@
     },
     "Dino Pals": {
         "Type": "AOE",
-        "Image": "rbxassetid://994044609988802",
+        "Image": "rbxassetid://121830495643041",
         "Rarity": "Secret",
         "PlacePrice": 6000,
         "Max": 3,
@@ -1547,7 +1594,7 @@
     },
      "Dino Dreadbear": {
         "Type": "Splash + Stun",
-        "Image": "rbxassetid://99044609988802",
+        "Image": "rbxassetid://81040981850985",
         "Rarity": "Nightmare",
         "PlacePrice": 25000,
         "Max": 3,
@@ -1706,6 +1753,45 @@
                 "Range": 35,
                 "Damage": 90000,
                 "Cooldown": 3
+            }
+        ]
+    },
+     "Chicazilla": {
+        "Type": "AOE",
+        "Image": "rbxassetid://85789248456776",
+        "Rarity": "Apex",
+        "PlacePrice": 75000,
+        "Max": 1,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 70000,
+                "Cooldown": 3
+            },
+            {
+                "Price": 80000,
+                "Range": 32,
+                "Damage": 90000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 90000,
+                "Range": 34,
+                "Damage": 100000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 100000,
+                "Range": 36,
+                "Damage": 120000,
+                "Cooldown": 2
             }
         ]
     },
