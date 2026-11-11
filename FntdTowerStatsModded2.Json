@@ -1080,6 +1080,217 @@
             }
         ]
     },
+     "BoloTrap": {
+        "Type": "Single",
+        "Image": "rbxassetid://75695349584779",
+        "Rarity": "Collab",
+        "PlacePrice": 5000,
+        "Max": 3,
+        "Offset": 0.4,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 2500,
+                "Cooldown": 1
+            },
+            {
+                "Price": 10000,
+                "Range": 17,
+                "Damage": 5000,
+                "Cooldown": 0.9
+            },
+            {
+                "Price": 20000,
+                "Range": 20,
+                "Damage": 7500,
+                "Cooldown": 0.8
+            },
+            {
+                "Price": 30000,
+                "Range": 23,
+                "Damage": 10000,
+                "Cooldown": 0.7
+            }
+        ]
+    },
+     "Sleepy RushTrap": {
+        "Type": "AOE + Stun",
+        "Image": "rbxassetid://92328390654490",
+        "Rarity": "Collab",
+        "PlacePrice": 30000,
+        "Max": 2,
+        "Offset": 0.4,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 25000,
+                "Cooldown": 4,
+                "Slow": 0,
+                "SlowTime": 0.75
+            },
+            {
+                "Price": 10000,
+                "Range": 23,
+                "Damage": 30000,
+                "Cooldown": 3,
+                "Slow": 0,
+                "SlowTime": 0.75
+            },
+            {
+                "Price": 20000,
+                "Range": 26,
+                "Damage": 40000,
+                "Cooldown": 2,
+                "Slow": 0,
+                "SlowTime": 0.75
+            },
+            {
+                "Price": 30000,
+                "Range": 30,
+                "Damage": 50000,
+                "Cooldown": 2,
+                "Slow": 0,
+                "SlowTime": 0.75
+            }
+        ]
+    },
+     "Dev duo": {
+        "Type": "AOE + Stun",
+        "Image": "rbxassetid://124605684705193",
+        "Rarity": "Collab",
+        "PlacePrice": 60000,
+        "Max": 1,
+        "Offset": 0.4,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 30000,
+                "Cooldown": 2,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 100000,
+                "Range": 33,
+                "Damage": 35000,
+                "Cooldown": 1.5,
+                "Slow": 0,
+                "SlowTime": 0.75
+            },
+            {
+                "Price": 120000,
+                "Range": 32,
+                "Damage": 40000,
+                "Cooldown": 1,
+                "Slow": 0,
+                "SlowTime": 1
+            },
+            {
+                "Price": 130000,
+                "Range": 35,
+                "Damage": 55000,
+                "Cooldown": 0.7,
+                "Slow": 0,
+                "SlowTime": 1.25
+            }
+        ]
+    },
+      "Gamer Toy Freddy": {
+        "Type": "AOE",
+        "Image": "rbxassetid://96811329962078",
+        "Rarity": "Collab",
+        "PlacePrice": 2222,
+        "Max": 2,
+        "Offset": 0.4,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 10000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 4444,
+                "Range": 33,
+                "Damage": 15000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 4444,
+                "Range": 32,
+                "Damage": 25000,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 7777,
+                "Range": 35,
+                "Damage": 50000,
+                "Cooldown": 2.5
+            }
+        ]
+    },
+     "StarDrop": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://107273207289047",
+        "Rarity": "Nightmare",
+        "PlacePrice": 32000,
+        "Max": 2,
+        "Offset": 0.4,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 20500,
+                "Cooldown": 1.35
+            },
+            {
+                "Price": 36000,
+                "Range": 33,
+                "Damage": 23500,
+                "Cooldown": 1.35
+            },
+            {
+                "Price": 40000,
+                "Range": 32,
+                "Damage": 26500,
+                "Cooldown": 1.35
+            },
+            {
+                "Price": 44000,
+                "Range": 35,
+                "Damage": 31000,
+                "Cooldown": 1.35
+            }
+        ]
+    },
     "Raider Freddy": {
         "Type": "AOE",
         "Image": "rbxassetid://73048377720930",
